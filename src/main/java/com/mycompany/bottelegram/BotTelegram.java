@@ -314,7 +314,7 @@ public class BotTelegram extends TelegramLongPollingBot {
     @Override
     public String getBotToken() {
         // TODO
-        return "6039054547:AAG-L-pKwI9VoZQtovxYWGtgV6Tx3A7K0yE";
+        return "Your TOken";
     }
 
     public static String convertToString(List<PhotoSize> photoSizes) {
